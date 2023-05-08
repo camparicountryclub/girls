@@ -8,4 +8,4 @@ The GPL is a free, copyleft license that gives users the freedom to share and mo
 
 ### Full Text of the GPL
 
-To view the full text of the GPL, please see the [COPYING](https://github.com/camparicountryclub/ssngen/blob/main/COPYING.md) file in this repository or visit the [GNU website](https://www.gnu.org/licenses/gpl-3.0.html).
+To view the full text of the GPL, please see the [COPYING](https://github.com/camparicountryclub/girls/blob/main/COPYING.md) file in this repository or visit the [GNU website](https://www.gnu.org/licenses/gpl-3.0.html).
