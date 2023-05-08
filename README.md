@@ -26,7 +26,7 @@ Visit [this Google Colab Notebook](https://colab.research.google.com/drive/16qEk
 
 <img width="1312" alt="image" src="https://user-images.githubusercontent.com/132803070/236758520-177ed565-d861-4852-bdb0-6b60883e211d.png">
 
-Once the script is run you'll be able to download your list this way:
+Once the script is run you'll be able to download your list this way by clicking on the three dots next to the .csv file with your domain as filename:
 
 <img width="1312" alt="image" src="https://user-images.githubusercontent.com/132803070/236758841-110dc317-9cde-4a8d-8b49-5aaefe4c7750.png">
 
