@@ -1,4 +1,4 @@
-<img width="1288" alt="image" src="https://user-images.githubusercontent.com/132803070/236739728-27287d54-7d0c-4090-8af4-2b07c8747fb2.png">
+![image](https://user-images.githubusercontent.com/132803070/236760984-ff11c8e7-1018-49ed-bde6-a2cc36dcb844.png)
 
 # Female Name Email Address Generation Script
 
